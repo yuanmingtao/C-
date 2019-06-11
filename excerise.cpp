@@ -8,7 +8,7 @@ void ex_2();
 void ex_3();
 void ex_4();
 
-void main()
+void ex_call()
 {
 	ex_4();
 }
