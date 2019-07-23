@@ -3,7 +3,7 @@
 #include <algorithm>
 using namespace std;
 
-void main() {
+void main_2_13() {
 	string str[] = {"We are here!", "Where are you?", "welcome!"};
 	for (int i = 0; i < 3; i++) {
 		copy(str[i].begin(), str[i].end(),ostream_iterator<char>(cout));
